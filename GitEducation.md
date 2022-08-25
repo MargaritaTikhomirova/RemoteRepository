@@ -25,3 +25,5 @@
 * команда git commit (with message)
 
 Команда *git branch*- выводит на экран списко веток,которые у нас есть. 
+
+Команда *git branch (branch name)* - создает новую ветку. 
