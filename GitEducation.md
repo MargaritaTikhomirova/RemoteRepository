@@ -36,4 +36,6 @@ Goodbye,gyes!
 
 Команда *git merge branch_name* - обьединяет текущую ветку с указанной (с branch_name).
 
- Hello, friends!
+ Hello, friends! =)
+
+ Строка в конфликтной ветке. 
