@@ -35,3 +35,5 @@ Goodbye,gyes!
 Команда *git log --graph* - визуализирует все ветки, которые у нас есть. Дерево коммитов. 
 
 Команда *git merge branch_name* - обьединяет текущую ветку с указанной (с branch_name).
+
+ Hello, friends!
