@@ -33,3 +33,5 @@
 Команда *git merge branch_name* - обьединяет текущую ветку с указанной (с branch_name).
 
 Команда *git checkout branch_name* - переход на другую ветку. 
+
+Команда *git branch -d branch_name* - удаляет ветку. 
